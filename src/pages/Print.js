@@ -253,7 +253,7 @@ function Print(props) {
         <div id="print">
             <div id="title">
                 <img id="logo" src={Logo} alt="SVKS" ></img>
-                <h1> Print QR Codes </h1>
+                <h1> Print Teacher/Admin QR Codes </h1>
             </div>
             <div id="printContents" >
                 <input id="search"
