@@ -199,7 +199,7 @@ function Scan(props) {
         <div id="scan">
             <div id="title" >
                 <img id="logo" src={Logo} alt="SVKS"/>
-                <h1> SVKS Check In/Out </h1>
+                <h1> SVKS Teacher/Admin Check In/Out </h1>
             </div>
             <div id="clock">
             {todayDate} {currentTimeSec}
