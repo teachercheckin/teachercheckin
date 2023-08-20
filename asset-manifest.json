@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/teachercheckin/static/css/main.2f326eb7.chunk.css",
-    "main.js": "/teachercheckin/static/js/main.dc63633c.chunk.js",
-    "main.js.map": "/teachercheckin/static/js/main.dc63633c.chunk.js.map",
-    "runtime-main.js": "/teachercheckin/static/js/runtime-main.48a44625.js",
-    "runtime-main.js.map": "/teachercheckin/static/js/runtime-main.48a44625.js.map",
+    "main.css": "/teachercheckin/static/css/main.95d59010.chunk.css",
+    "main.js": "/teachercheckin/static/js/main.4e1f1715.chunk.js",
+    "main.js.map": "/teachercheckin/static/js/main.4e1f1715.chunk.js.map",
+    "runtime-main.js": "/teachercheckin/static/js/runtime-main.fa242a0d.js",
+    "runtime-main.js.map": "/teachercheckin/static/js/runtime-main.fa242a0d.js.map",
     "static/css/2.b28305bc.chunk.css": "/teachercheckin/static/css/2.b28305bc.chunk.css",
-    "static/js/2.3d22807a.chunk.js": "/teachercheckin/static/js/2.3d22807a.chunk.js",
-    "static/js/2.3d22807a.chunk.js.map": "/teachercheckin/static/js/2.3d22807a.chunk.js.map",
-    "static/js/3.28d9b36b.chunk.js": "/teachercheckin/static/js/3.28d9b36b.chunk.js",
-    "static/js/3.28d9b36b.chunk.js.map": "/teachercheckin/static/js/3.28d9b36b.chunk.js.map",
+    "static/js/2.3d764ce2.chunk.js": "/teachercheckin/static/js/2.3d764ce2.chunk.js",
+    "static/js/2.3d764ce2.chunk.js.map": "/teachercheckin/static/js/2.3d764ce2.chunk.js.map",
+    "static/js/3.341190fd.chunk.js": "/teachercheckin/static/js/3.341190fd.chunk.js",
+    "static/js/3.341190fd.chunk.js.map": "/teachercheckin/static/js/3.341190fd.chunk.js.map",
     "index.html": "/teachercheckin/index.html",
     "static/css/2.b28305bc.chunk.css.map": "/teachercheckin/static/css/2.b28305bc.chunk.css.map",
-    "static/css/main.2f326eb7.chunk.css.map": "/teachercheckin/static/css/main.2f326eb7.chunk.css.map",
-    "static/js/2.3d22807a.chunk.js.LICENSE.txt": "/teachercheckin/static/js/2.3d22807a.chunk.js.LICENSE.txt",
+    "static/css/main.95d59010.chunk.css.map": "/teachercheckin/static/css/main.95d59010.chunk.css.map",
+    "static/js/2.3d764ce2.chunk.js.LICENSE.txt": "/teachercheckin/static/js/2.3d764ce2.chunk.js.LICENSE.txt",
     "static/media/Logo.f0526f33.png": "/teachercheckin/static/media/Logo.f0526f33.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.48a44625.js",
+    "static/js/runtime-main.fa242a0d.js",
     "static/css/2.b28305bc.chunk.css",
-    "static/js/2.3d22807a.chunk.js",
-    "static/css/main.2f326eb7.chunk.css",
-    "static/js/main.dc63633c.chunk.js"
+    "static/js/2.3d764ce2.chunk.js",
+    "static/css/main.95d59010.chunk.css",
+    "static/js/main.4e1f1715.chunk.js"
   ]
 }
