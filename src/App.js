@@ -63,7 +63,7 @@ function App() {
                     icon={false}
                 />
                 <h2>
-                    For SVKS teachers and administration staff ONLY. For students, please see the appropriate page.
+                    For SVKS teachers and administration staff ONLY. For students, please see the appropriate <a href="https://techsvks.github.io/checkin/">page</a>.
                 </h2>
             </div>
         </Router>
