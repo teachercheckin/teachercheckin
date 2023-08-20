@@ -213,7 +213,7 @@ function Manual(props) {
             </div>
             <div id="manualInput" >
                 <input id="search"
-                    placeholder={"Search for student or enter a number..."}
+                    placeholder={"Search for teacher/admin or enter a number..."}
                     value={inputText}
                     onChange={(event) => {
                         setInputText(event.target.value);
