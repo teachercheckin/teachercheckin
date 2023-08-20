@@ -63,7 +63,7 @@ function App() {
                     icon={false}
                 />
                 <h2>
-//                    v {process.env.REACT_APP_VERSION}
+                    For SVKS teachers and administration staff ONLY. For students, please see the appropriate page.
                 </h2>
             </div>
         </Router>
