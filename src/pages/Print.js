@@ -257,7 +257,7 @@ function Print(props) {
             </div>
             <div id="printContents" >
                 <input id="search"
-                    placeholder={"Search for student or enter a number..."}
+                    placeholder={"Search for teacher/admin or enter a number..."}
                     value={inputText}
                     onChange={(event) => {
                         setInputText(event.target.value);
@@ -326,7 +326,7 @@ function Print(props) {
                 Select all
             </button>
             <button id="selectMarked" hidden={!showMarked} onClick={addMarkedStudents}>
-                Print codes for marked students.
+                Print codes for marked teachers/admins.
             </button>
             <button id="removeAll" hidden={(!selectedCodes.length > 0)} onClick={removeAll}>
                 Remove all
