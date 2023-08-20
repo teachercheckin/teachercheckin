@@ -206,7 +206,7 @@ function Manual(props) {
         <div id="manual">
             <div id="title">
                 <img id="logo" src={Logo} alt="SVKS" ></img>
-                <h1> Manual Check In/Out </h1>
+                <h1> Manual Teacher/Admin Check In/Out </h1>
             </div>
             <div id="clock">
             {todayDate} {currentTimeSec}
