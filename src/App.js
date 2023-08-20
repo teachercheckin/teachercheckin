@@ -63,7 +63,7 @@ function App() {
                     icon={false}
                 />
                 <h2>
-                    v {process.env.REACT_APP_VERSION}
+//                    v {process.env.REACT_APP_VERSION}
                 </h2>
             </div>
         </Router>
