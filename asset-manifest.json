@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/teachercheckin/static/css/main.95d59010.chunk.css",
-    "main.js": "/teachercheckin/static/js/main.17f5617a.chunk.js",
-    "main.js.map": "/teachercheckin/static/js/main.17f5617a.chunk.js.map",
+    "main.js": "/teachercheckin/static/js/main.bbc37541.chunk.js",
+    "main.js.map": "/teachercheckin/static/js/main.bbc37541.chunk.js.map",
     "runtime-main.js": "/teachercheckin/static/js/runtime-main.fa242a0d.js",
     "runtime-main.js.map": "/teachercheckin/static/js/runtime-main.fa242a0d.js.map",
     "static/css/2.b28305bc.chunk.css": "/teachercheckin/static/css/2.b28305bc.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.b28305bc.chunk.css",
     "static/js/2.3d764ce2.chunk.js",
     "static/css/main.95d59010.chunk.css",
-    "static/js/main.17f5617a.chunk.js"
+    "static/js/main.bbc37541.chunk.js"
   ]
 }
